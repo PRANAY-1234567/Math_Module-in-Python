@@ -1,4 +1,6 @@
-Python Math Module BasicsThis repository contains a simple Python script demonstrating how to use the built-in math module for basic mathematical operations, such as calculating square roots and accessing mathematical constants like $\pi$.🛠 FeaturesModule Importing: Shows how to import the entire math library.Square Root Calculation: Uses math.sqrt() to compute the square root of a number.Specific Imports: Demonstrates the from ... import ... syntax to pull specific constants directly into the namespace.🚀 UsageTo run this code, ensure you have Python 3.x installed.Clone the repository:Bashgit clone https://github.com/your-username/repository-name.git
+Python Math Module BasicsThis repository contains a simple Python script demonstrating how to use the built-in math module for basic mathematical operations, such as calculating square roots and accessing mathematical constants like $\pi$.🛠 FeaturesModule Importing: Shows how to import the entire math library.Square Root Calculation: Uses math.sqrt() to compute the square root of a number.Specific Imports: Demonstrates the from ... import ... syntax to pull specific constants directly into the namespace.
+
+🚀 UsageTo run this code, ensure you have Python 3.x installed.Clone the repository:Bashgit clone https://github.com/your-username/repository-name.git
 Run the script:Bashpython script_name.py
 📝 Code SnippetThe script performs the following operations:Pythonimport math
 
