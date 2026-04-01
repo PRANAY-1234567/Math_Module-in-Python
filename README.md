@@ -14,3 +14,6 @@ from math import pi
 print(f"The value of pi is: {pi}")
 
 📚 Mathematical ContextThe code utilizes the standard definition of a square root:$$f(x) = \sqrt{x}$$Where $x = 16$, the output is $4.0$. It also provides the value of $\pi$ (approximately 3.14159), which is essential for calculations involving circles and spheres.
+
+
+<img width="495" height="705" alt="image" src="https://github.com/user-attachments/assets/9a111385-9e36-4cc9-aa70-c3abfd259714" />
